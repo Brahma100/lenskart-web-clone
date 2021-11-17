@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lenskart-web-clone/static/css/main.e560af50.chunk.css",
+    "main.js": "/lenskart-web-clone/static/js/main.bab9b547.chunk.js",
+    "main.js.map": "/lenskart-web-clone/static/js/main.bab9b547.chunk.js.map",
+    "runtime-main.js": "/lenskart-web-clone/static/js/runtime-main.dfb85662.js",
+    "runtime-main.js.map": "/lenskart-web-clone/static/js/runtime-main.dfb85662.js.map",
+    "static/css/2.cdf836bb.chunk.css": "/lenskart-web-clone/static/css/2.cdf836bb.chunk.css",
+    "static/js/2.e956f11f.chunk.js": "/lenskart-web-clone/static/js/2.e956f11f.chunk.js",
+    "static/js/2.e956f11f.chunk.js.map": "/lenskart-web-clone/static/js/2.e956f11f.chunk.js.map",
+    "index.html": "/lenskart-web-clone/index.html",
+    "precache-manifest.65e14817c7e93f994a6c0346f3a02338.js": "/lenskart-web-clone/precache-manifest.65e14817c7e93f994a6c0346f3a02338.js",
+    "service-worker.js": "/lenskart-web-clone/service-worker.js",
+    "static/css/2.cdf836bb.chunk.css.map": "/lenskart-web-clone/static/css/2.cdf836bb.chunk.css.map",
+    "static/css/main.e560af50.chunk.css.map": "/lenskart-web-clone/static/css/main.e560af50.chunk.css.map",
+    "static/js/2.e956f11f.chunk.js.LICENSE.txt": "/lenskart-web-clone/static/js/2.e956f11f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/lenskart-web-clone/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfb85662.js",
+    "static/css/2.cdf836bb.chunk.css",
+    "static/js/2.e956f11f.chunk.js",
+    "static/css/main.e560af50.chunk.css",
+    "static/js/main.bab9b547.chunk.js"
+  ]
+}
