@@ -1,0 +1,31 @@
+.footer >p{
+    font-size: .7vw;
+    /* padding-left: 1vw; */
+}
+.footer{
+    color:#484848;
+    padding-left: 1vw;
+    text-align: left !important;
+}
+.footer > h3{
+    padding-bottom: 1vw;
+}
+.follow_us{
+    margin: 1vw 0;
+}
+.follow_us>p{
+    font-family: futurastd-medium;
+    color: #484848;
+    font-size: 1vw;
+    padding-bottom: .5vw;
+}
+.follow_icons {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1vw;
+}
+.follow_icons> .MuiSvgIcon-root{
+    font-size: 1.5vw;
+    margin:0 .5vw;
+    color: #484848;
+}

@@ -1,0 +1,72 @@
+.head_m{
+    text-align: -webkit-match-parent;
+    /* margin-top: 5px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.brand{
+    /* flex: 0.1; */
+    margin-left: 1vw;
+    flex-basis: 20%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.brand >img{
+    min-width: 10px;
+    object-fit: contain;
+    height: 10vh;
+    width: 20vw;
+    
+}
+.search{
+
+    height: 3vw;
+    color: #888;
+    flex:0.9;
+    padding: 3px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border:1px solid #b8b9b9;
+}
+.search >input{
+   height: 2vw;
+   width: 100%;
+   overflow: auto;
+   font-size: 1vw;
+   min-width: 1vw;
+    border: none;
+    outline-offset: 0;
+    outline-width: 0;
+}
+.search>input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:#b6b8b8;
+    font-size: 0.9vw;
+    /* opacity: 1; Firefox */
+  }
+.user_nav{
+    
+    /* flex:0.4; */
+    display: flex;
+}
+.user_nav > div {
+    display: flex;
+    align-items: center;
+    
+}
+
+.user_nav > div > a{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1vw;
+    margin: 0px 1vw;
+ text-decoration: none;
+ color: black;
+}
+/* .user_nav>div>.MuiSvgIcon-root{
+    font-size: .5vw !important; 
+} */

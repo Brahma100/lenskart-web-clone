@@ -1,0 +1,54 @@
+.nav1{
+    font-size: 1vw;
+    min-width: 5px;
+    display: flex;
+    padding: .7vw 1.3vw 0 0;
+    justify-content: space-between;
+    align-items: center;
+}
+.ul_10{
+    flex:0.8;
+}
+/* contact Us link */
+.ul_11{
+
+    flex:0.1;
+    margin-right: -5vw !important;
+}
+.nav1> ul{
+
+    display: flex;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    /* padding at the start */
+    padding-inline-start: 10px;
+}
+.nav1 > ul> li{
+    text-align: -webkit-match-parent;
+    list-style: none;
+   
+    padding: 0 .5vw;
+   
+}
+/* Don't Need Border on Last list */
+.nav1 > ul> li:not(:last-child){
+    border-right: 0.1vw solid  #888;
+}
+.nav1>ul>li>a{
+    text-decoration:none;
+    color: #888;
+    cursor: pointer;
+}
+.nav1>ul>li>a:hover{
+text-decoration:underline;
+}
+.contact_us{
+    border: none !important;
+    margin-right: -30px !important;
+}
+/* .contact_us >ul>li>a{
+    margin-right: px !important;
+} */
+

@@ -1,0 +1,22 @@
+.row1, .row2{
+    font-size: 1px !important;
+    padding: 0.5vw;
+    padding-right: 2vw;
+    display: flex;
+    justify-content: space-between;
+}
+.row1>p, .row2>p{
+    font-size: 8px !important;
+}
+.cat_drop{
+    position: relative;
+
+}
+.cat_drop:hover{
+    background-color:beige;
+}
+.arrow_icon{
+    position: absolute;
+    top:17px;
+    right: 0vw;
+}

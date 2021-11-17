@@ -1,0 +1,33 @@
+.slider_main{
+    margin: 2vw 0;
+    font-size: 1.2vw;
+    letter-spacing: 0.17vw;
+    color: #445962;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    border-bottom: .01em solid  #445962;
+    padding-bottom: 1vw;
+}
+
+.color{
+    
+    font-size: 1.5vw;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-family: futurastd-book,futurastd-medium;
+    /* display: block; */
+    color: #329c92;
+}
+.p1,.p2{
+    
+    margin: 3px 0;
+    font-size: .8vw;
+    color: #424244;
+    letter-spacing: 1px;
+}
+.p2{
+    font-weight: 600;
+}
+.slider{
+    margin-top: 1vw;
+}
